@@ -1,0 +1,16 @@
+00:00 +0: loading /Users/liuyu/Desktop/Spot/test/catalog_capture_test.dart
+00:00 +0: /Users/liuyu/Desktop/Spot/test/catalog_capture_test.dart: save the collection overview and desktop layout
+00:06 +1: loading /Users/liuyu/Desktop/Spot/test/widget_test.dart
+00:08 +1: /Users/liuyu/Desktop/Spot/test/widget_test.dart: (setUpAll)
+00:08 +1: /Users/liuyu/Desktop/Spot/test/widget_test.dart: store rejects invalid withdrawals and persists local values
+00:09 +2: /Users/liuyu/Desktop/Spot/test/widget_test.dart: all 30 screens render and save actual Flutter screenshots
+00:37 +3: /Users/liuyu/Desktop/Spot/test/widget_test.dart: hydration logs a drink and updates the daily total
+00:40 +4: /Users/liuyu/Desktop/Spot/test/widget_test.dart: shopping bag and demo checkout complete a local order
+00:42 +5: /Users/liuyu/Desktop/Spot/test/widget_test.dart: wallet validates amounts and updates the displayed balance
+00:44 +6: /Users/liuyu/Desktop/Spot/test/widget_test.dart: catalog searches and opens the matching collection
+00:45 +7: /Users/liuyu/Desktop/Spot/test/widget_test.dart: (tearDownAll)
+00:45 +7: loading /Users/liuyu/Desktop/Spot/test/layout_test.dart
+00:47 +7: /Users/liuyu/Desktop/Spot/test/layout_test.dart: (setUpAll)
+00:47 +7: /Users/liuyu/Desktop/Spot/test/layout_test.dart: all screens fit compact phones and a short desktop window
+01:32 +8: /Users/liuyu/Desktop/Spot/test/layout_test.dart: (tearDownAll)
+01:32 +8: All tests passed!

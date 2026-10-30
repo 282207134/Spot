@@ -1,0 +1,203 @@
+{
+  "document": "Spot UI Kit",
+  "fileId": "UZg8yNfqqZTxWDWkgDnSNQ",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "UI Kit",
+      "screens": 30
+    },
+    {
+      "id": "0:1336",
+      "name": "Styles",
+      "boards": 2
+    },
+    {
+      "id": "0:1555",
+      "name": "Symbols",
+      "components": 104
+    }
+  ],
+  "screens": [
+    {
+      "slug": "subscription-detail",
+      "nodeId": "0:1279",
+      "reference": "docs/design/reference/subscription-detail.png",
+      "screenshot": "docs/screenshots/subscription-detail.png"
+    },
+    {
+      "slug": "subscription-home",
+      "nodeId": "0:1213",
+      "reference": "docs/design/reference/subscription-home.png",
+      "screenshot": "docs/screenshots/subscription-home.png"
+    },
+    {
+      "slug": "fitness-detail",
+      "nodeId": "0:1155",
+      "reference": "docs/design/reference/fitness-detail.png",
+      "screenshot": "docs/screenshots/fitness-detail.png"
+    },
+    {
+      "slug": "fitness-home",
+      "nodeId": "0:1087",
+      "reference": "docs/design/reference/fitness-home.png",
+      "screenshot": "docs/screenshots/fitness-home.png"
+    },
+    {
+      "slug": "shoe-detail",
+      "nodeId": "0:1050",
+      "reference": "docs/design/reference/shoe-detail.png",
+      "screenshot": "docs/screenshots/shoe-detail.png"
+    },
+    {
+      "slug": "shoe-home",
+      "nodeId": "0:1011",
+      "reference": "docs/design/reference/shoe-home.png",
+      "screenshot": "docs/screenshots/shoe-home.png"
+    },
+    {
+      "slug": "player-detail",
+      "nodeId": "0:961",
+      "reference": "docs/design/reference/player-detail.png",
+      "screenshot": "docs/screenshots/player-detail.png"
+    },
+    {
+      "slug": "player-home",
+      "nodeId": "0:905",
+      "reference": "docs/design/reference/player-home.png",
+      "screenshot": "docs/screenshots/player-home.png"
+    },
+    {
+      "slug": "finance-detail",
+      "nodeId": "0:838",
+      "reference": "docs/design/reference/finance-detail.png",
+      "screenshot": "docs/screenshots/finance-detail.png"
+    },
+    {
+      "slug": "finance-home",
+      "nodeId": "0:737",
+      "reference": "docs/design/reference/finance-home.png",
+      "screenshot": "docs/screenshots/finance-home.png"
+    },
+    {
+      "slug": "journal-detail",
+      "nodeId": "0:715",
+      "reference": "docs/design/reference/journal-detail.png",
+      "screenshot": "docs/screenshots/journal-detail.png"
+    },
+    {
+      "slug": "journal-home",
+      "nodeId": "0:665",
+      "reference": "docs/design/reference/journal-home.png",
+      "screenshot": "docs/screenshots/journal-home.png"
+    },
+    {
+      "slug": "illustration-onboarding",
+      "nodeId": "0:655",
+      "reference": "docs/design/reference/illustration-onboarding.png",
+      "screenshot": "docs/screenshots/illustration-onboarding.png"
+    },
+    {
+      "slug": "illustration-detail",
+      "nodeId": "0:625",
+      "reference": "docs/design/reference/illustration-detail.png",
+      "screenshot": "docs/screenshots/illustration-detail.png"
+    },
+    {
+      "slug": "illustration-home",
+      "nodeId": "0:591",
+      "reference": "docs/design/reference/illustration-home.png",
+      "screenshot": "docs/screenshots/illustration-home.png"
+    },
+    {
+      "slug": "banking-cards",
+      "nodeId": "0:519",
+      "reference": "docs/design/reference/banking-cards.png",
+      "screenshot": "docs/screenshots/banking-cards.png"
+    },
+    {
+      "slug": "banking-transfer",
+      "nodeId": "0:468",
+      "reference": "docs/design/reference/banking-transfer.png",
+      "screenshot": "docs/screenshots/banking-transfer.png"
+    },
+    {
+      "slug": "banking-home",
+      "nodeId": "0:414",
+      "reference": "docs/design/reference/banking-home.png",
+      "screenshot": "docs/screenshots/banking-home.png"
+    },
+    {
+      "slug": "toothbrush-onboarding",
+      "nodeId": "0:379",
+      "reference": "docs/design/reference/toothbrush-onboarding.png",
+      "screenshot": "docs/screenshots/toothbrush-onboarding.png"
+    },
+    {
+      "slug": "toothbrush-detail",
+      "nodeId": "0:353",
+      "reference": "docs/design/reference/toothbrush-detail.png",
+      "screenshot": "docs/screenshots/toothbrush-detail.png"
+    },
+    {
+      "slug": "toothbrush-home",
+      "nodeId": "0:334",
+      "reference": "docs/design/reference/toothbrush-home.png",
+      "screenshot": "docs/screenshots/toothbrush-home.png"
+    },
+    {
+      "slug": "shop-cart",
+      "nodeId": "0:289",
+      "reference": "docs/design/reference/shop-cart.png",
+      "screenshot": "docs/screenshots/shop-cart.png"
+    },
+    {
+      "slug": "shop-detail",
+      "nodeId": "0:263",
+      "reference": "docs/design/reference/shop-detail.png",
+      "screenshot": "docs/screenshots/shop-detail.png"
+    },
+    {
+      "slug": "shop-home",
+      "nodeId": "0:225",
+      "reference": "docs/design/reference/shop-home.png",
+      "screenshot": "docs/screenshots/shop-home.png"
+    },
+    {
+      "slug": "vacancy-detail",
+      "nodeId": "0:206",
+      "reference": "docs/design/reference/vacancy-detail.png",
+      "screenshot": "docs/screenshots/vacancy-detail.png"
+    },
+    {
+      "slug": "vacancy-home",
+      "nodeId": "0:161",
+      "reference": "docs/design/reference/vacancy-home.png",
+      "screenshot": "docs/screenshots/vacancy-home.png"
+    },
+    {
+      "slug": "drawing-detail",
+      "nodeId": "0:130",
+      "reference": "docs/design/reference/drawing-detail.png",
+      "screenshot": "docs/screenshots/drawing-detail.png"
+    },
+    {
+      "slug": "drawing-home",
+      "nodeId": "0:117",
+      "reference": "docs/design/reference/drawing-home.png",
+      "screenshot": "docs/screenshots/drawing-home.png"
+    },
+    {
+      "slug": "hydration-detail",
+      "nodeId": "0:54",
+      "reference": "docs/design/reference/hydration-detail.png",
+      "screenshot": "docs/screenshots/hydration-detail.png"
+    },
+    {
+      "slug": "hydration-home",
+      "nodeId": "0:2",
+      "reference": "docs/design/reference/hydration-home.png",
+      "screenshot": "docs/screenshots/hydration-home.png"
+    }
+  ]
+}
